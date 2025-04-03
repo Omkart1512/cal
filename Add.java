@@ -13,7 +13,7 @@ class Add{
 		System.out.println("sub is: "+sub);
 
 		
-	         int mul=num1-num2;
+	         int mul=num1*num2;
 	        System.out.println("Mul is : "+mul);}
 
 
