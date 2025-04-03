@@ -8,8 +8,13 @@ class Add{
 		int num2=sc.nextInt();
 		int add=num1+num2;
 		System.out.println("Sum is : "+add);
+
                 int sub=num1-num2;
 		System.out.println("sub is: "+sub);
 
-		}
+		
+	         int mul=num1-num2;
+	        System.out.println("Mul is : "+mul);}
+
+
 }
